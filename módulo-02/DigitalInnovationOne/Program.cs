@@ -6,11 +6,16 @@ namespace DigitalInnovationOne
     {
         static void Main(string[] args)
         {
-            int numeroVezes = 10;
+          var s = new Pilha();
+            
+            s.Empilhar(10);
+            s.Empilhar(12);
+            s.Empilhar(45);
 
-                for (int i = 0; i < numeroVezes; i++){
-                    Console.WriteLine($"Olá pai {i}");    
-                }
+            Console.WriteLine(s.Desempilhar());
+            Console.WriteLine(s.Desempilhar());
+            Console.WriteLine(s.Desempilhar());
+        
         }
     }
 }
