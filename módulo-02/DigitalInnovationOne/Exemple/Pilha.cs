@@ -10,12 +10,13 @@ namespace DigitalInnovationOne{
             
             public void Empilhar(object item){
                 primeiro = new Posicao(primeiro,item);
+
             }
 
             public object Desempilhar(){
                 
                 if(primeiro == null){
-                    throw new InvalidOperationException();
+                    throw new InvalidOperationException("A pilha está vazia!");
                 }
 
                 object resultado = primeiro.item;
