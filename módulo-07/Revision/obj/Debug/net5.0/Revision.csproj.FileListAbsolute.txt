@@ -1,0 +1,16 @@
+/home/victor-gabriel/Documentos/projeto-open-banking/github/course-donet-and-csharp/módulo-07/Revision/bin/Debug/net5.0/Revision
+/home/victor-gabriel/Documentos/projeto-open-banking/github/course-donet-and-csharp/módulo-07/Revision/bin/Debug/net5.0/Revision.deps.json
+/home/victor-gabriel/Documentos/projeto-open-banking/github/course-donet-and-csharp/módulo-07/Revision/bin/Debug/net5.0/Revision.runtimeconfig.json
+/home/victor-gabriel/Documentos/projeto-open-banking/github/course-donet-and-csharp/módulo-07/Revision/bin/Debug/net5.0/Revision.runtimeconfig.dev.json
+/home/victor-gabriel/Documentos/projeto-open-banking/github/course-donet-and-csharp/módulo-07/Revision/bin/Debug/net5.0/Revision.dll
+/home/victor-gabriel/Documentos/projeto-open-banking/github/course-donet-and-csharp/módulo-07/Revision/bin/Debug/net5.0/ref/Revision.dll
+/home/victor-gabriel/Documentos/projeto-open-banking/github/course-donet-and-csharp/módulo-07/Revision/bin/Debug/net5.0/Revision.pdb
+/home/victor-gabriel/Documentos/projeto-open-banking/github/course-donet-and-csharp/módulo-07/Revision/obj/Debug/net5.0/Revision.csprojAssemblyReference.cache
+/home/victor-gabriel/Documentos/projeto-open-banking/github/course-donet-and-csharp/módulo-07/Revision/obj/Debug/net5.0/Revision.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor-gabriel/Documentos/projeto-open-banking/github/course-donet-and-csharp/módulo-07/Revision/obj/Debug/net5.0/Revision.AssemblyInfoInputs.cache
+/home/victor-gabriel/Documentos/projeto-open-banking/github/course-donet-and-csharp/módulo-07/Revision/obj/Debug/net5.0/Revision.AssemblyInfo.cs
+/home/victor-gabriel/Documentos/projeto-open-banking/github/course-donet-and-csharp/módulo-07/Revision/obj/Debug/net5.0/Revision.csproj.CoreCompileInputs.cache
+/home/victor-gabriel/Documentos/projeto-open-banking/github/course-donet-and-csharp/módulo-07/Revision/obj/Debug/net5.0/Revision.dll
+/home/victor-gabriel/Documentos/projeto-open-banking/github/course-donet-and-csharp/módulo-07/Revision/obj/Debug/net5.0/ref/Revision.dll
+/home/victor-gabriel/Documentos/projeto-open-banking/github/course-donet-and-csharp/módulo-07/Revision/obj/Debug/net5.0/Revision.pdb
+/home/victor-gabriel/Documentos/projeto-open-banking/github/course-donet-and-csharp/módulo-07/Revision/obj/Debug/net5.0/Revision.genruntimeconfig.cache
