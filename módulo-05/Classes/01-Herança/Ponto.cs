@@ -1,4 +1,4 @@
-namespace Classes.01_Herança
+namespace Classes.Herança
 {
     public class Ponto
     {

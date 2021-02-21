@@ -1,4 +1,4 @@
-namespace Classes.02_Metodos
+namespace Classes.Metodos
 {
     public class Ref
     {

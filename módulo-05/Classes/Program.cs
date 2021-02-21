@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Classes
+namespace Classes.Herança
 {
     class Program
     {
