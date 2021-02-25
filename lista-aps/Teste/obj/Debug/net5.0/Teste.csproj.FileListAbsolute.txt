@@ -1,0 +1,16 @@
+/home/victor-gabriel/Documentos/FACULDADE/2020.2/APS/listas/modulo03/Teste/bin/Debug/net5.0/Teste
+/home/victor-gabriel/Documentos/FACULDADE/2020.2/APS/listas/modulo03/Teste/bin/Debug/net5.0/Teste.deps.json
+/home/victor-gabriel/Documentos/FACULDADE/2020.2/APS/listas/modulo03/Teste/bin/Debug/net5.0/Teste.runtimeconfig.json
+/home/victor-gabriel/Documentos/FACULDADE/2020.2/APS/listas/modulo03/Teste/bin/Debug/net5.0/Teste.runtimeconfig.dev.json
+/home/victor-gabriel/Documentos/FACULDADE/2020.2/APS/listas/modulo03/Teste/bin/Debug/net5.0/Teste.dll
+/home/victor-gabriel/Documentos/FACULDADE/2020.2/APS/listas/modulo03/Teste/bin/Debug/net5.0/ref/Teste.dll
+/home/victor-gabriel/Documentos/FACULDADE/2020.2/APS/listas/modulo03/Teste/bin/Debug/net5.0/Teste.pdb
+/home/victor-gabriel/Documentos/FACULDADE/2020.2/APS/listas/modulo03/Teste/obj/Debug/net5.0/Teste.csprojAssemblyReference.cache
+/home/victor-gabriel/Documentos/FACULDADE/2020.2/APS/listas/modulo03/Teste/obj/Debug/net5.0/Teste.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor-gabriel/Documentos/FACULDADE/2020.2/APS/listas/modulo03/Teste/obj/Debug/net5.0/Teste.AssemblyInfoInputs.cache
+/home/victor-gabriel/Documentos/FACULDADE/2020.2/APS/listas/modulo03/Teste/obj/Debug/net5.0/Teste.AssemblyInfo.cs
+/home/victor-gabriel/Documentos/FACULDADE/2020.2/APS/listas/modulo03/Teste/obj/Debug/net5.0/Teste.csproj.CoreCompileInputs.cache
+/home/victor-gabriel/Documentos/FACULDADE/2020.2/APS/listas/modulo03/Teste/obj/Debug/net5.0/Teste.dll
+/home/victor-gabriel/Documentos/FACULDADE/2020.2/APS/listas/modulo03/Teste/obj/Debug/net5.0/ref/Teste.dll
+/home/victor-gabriel/Documentos/FACULDADE/2020.2/APS/listas/modulo03/Teste/obj/Debug/net5.0/Teste.pdb
+/home/victor-gabriel/Documentos/FACULDADE/2020.2/APS/listas/modulo03/Teste/obj/Debug/net5.0/Teste.genruntimeconfig.cache
