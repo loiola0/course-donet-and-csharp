@@ -15,7 +15,7 @@ namespace AbstractFactory.AbstractClasses
         }
 
         //methods
-        public void MostrarTelaGrafica(){}
+        public abstract void MostrarTelaGrafica();
 
 
         
